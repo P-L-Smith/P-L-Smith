@@ -87,7 +87,7 @@ A dedicated professional with a passion for technology and a commitment to conti
   * Remote Assistance (Screen Sharing)
   * Endpoint Management
   * Active Directory (AD)
-  * Imaging
+  * Disk Imaging & Backup
   * Workspace Management Solutions
 
 * Soft Skills:
