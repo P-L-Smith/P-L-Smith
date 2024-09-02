@@ -89,6 +89,7 @@ A dedicated professional with a passion for technology and a commitment to conti
   * Active Directory (AD)
   * Disk Imaging & Backup
   * Workspace Management Solutions
+  * Data Warehouse Systems
 
 * Soft Skills:
    * Customer Service & Communication (In Person, Phone, Email, Chat)
