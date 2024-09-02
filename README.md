@@ -73,7 +73,7 @@ A dedicated professional with a passion for technology and a commitment to conti
 
 ### Skills:
 * Technical Skills:
-  *CRM Systems (Salesforce)
+  * CRM Systems (Salesforce)
   * Customer Relationship Management (CRM)
   * Technical Support (Hardware, Software, Networking)
   * Troubleshooting (Windows, Multi-function Printers)
@@ -85,6 +85,7 @@ A dedicated professional with a passion for technology and a commitment to conti
   * Documentation (Knowledge Base Articles)
   * Technology Implementation
   * Remote Assistance (Screen Sharing)
+  * Endpoint Management
 
 * Soft Skills:
    * Customer Service & Communication (In Person, Phone, Email, Chat)
