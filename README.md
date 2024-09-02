@@ -93,6 +93,7 @@ A dedicated professional with a passion for technology and a commitment to conti
   * Disk Imaging & Backup
   * Workspace Management Solutions
   * Data Warehouse Systems
+  * Business Analysis
 
 * Soft Skills:
    * Customer Service & Communication (In Person, Phone, Email, Chat)
