@@ -29,15 +29,15 @@ A dedicated professional with a passion for technology and a commitment to conti
   * Directly managed over 30 clients, attending an average of six client meetings per day.
 
  *  Technical Help Desk Support Representative
-   * Responded to initial telephone, email, and chat inquiries, troubleshooting hardware, software, and client-side network problems according to established Service Level Agreements (SLAs) and Key Performance Indicators (KPIs).
-   * Provided timely and accurate information to incoming customer questions, identifying the root cause of issues using effective communication skills working directly with customers, resolving problems over the phone and remotely assisting clients via screen sharing software.
-   * Provided timely feedback to the company regarding service issues or customer concerns.
-   * Assisted customers with basic technical troubleshooting (point of sale systems, hardware, and software).
-   * Processed customer orders, changes, and returns according to established department policies and procedures.
-   * Collaborated effectively with a remote team using Software as a Service (SaaS) tools.
-   * Single point of contact resolver in over 85% of service orders received.
-   * Handled an average of 25 calls, 10 email inquiries, and 10 chat inquiries per day.
-   * Consistently received positive customer satisfaction survey comments.
+    * Responded to initial telephone, email, and chat inquiries, troubleshooting hardware, software, and client-side network problems according to established Service Level Agreements (SLAs) and Key Performance Indicators (KPIs).
+    * Provided timely and accurate information to incoming customer questions, identifying the root cause of issues using effective communication skills working directly with customers, resolving problems over the phone and remotely assisting clients via screen sharing software.
+    * Provided timely feedback to the company regarding service issues or customer concerns.
+    * Assisted customers with basic technical troubleshooting (point of sale systems, hardware, and software).
+    * Processed customer orders, changes, and returns according to established department policies and procedures.
+    * Collaborated effectively with a remote team using Software as a Service (SaaS) tools.
+    * Single point of contact resolver in over 85% of service orders received.
+    * Handled an average of 25 calls, 10 email inquiries, and 10 chat inquiries per day.
+    * Consistently received positive customer satisfaction survey comments.
 
 * Computer and Information Technology Contractor
   * Provided comprehensive technical and system support to a diverse range of corporate and non-profit clients.
