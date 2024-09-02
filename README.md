@@ -9,6 +9,7 @@ A dedicated professional with a passion for technology and a commitment to conti
 - [Tools & Technologies](#tools-and-technologies)
 - [Skills](#skills)
 - [License](#license)
+- [About Me](#about-me)
 
 ### Recent Engagements: 
 
@@ -110,6 +111,7 @@ A dedicated professional with a passion for technology and a commitment to conti
 ### License
 MIT
 
+### About Me
 - 🔭 I’m currently working on independent studies and freelance projects. <br />
 - 🌱 I’m currently learning  mastering key technologies in customer relationship management, support, communication, and data analysis. <br />
 - 👯 I’m looking to collaborate on building powerful systems for managing customer relationships, supporting customers, and driving business growth while creating documentation and providing training to the team on how to use the integrated tools effectively. <br />
