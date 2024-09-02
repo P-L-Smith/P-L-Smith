@@ -70,6 +70,9 @@ A dedicated professional with a passion for technology and a commitment to conti
 * PowerShell
 * Markdown
 * Microsoft Office Suite
+* Healthcare Provider Hubs
+* Healthcare Data Management
+* Electronic Medical Records (EMR) Systems 
 
 ### Skills:
 * Technical Skills:
