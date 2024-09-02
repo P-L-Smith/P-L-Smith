@@ -69,6 +69,7 @@ A dedicated professional with a passion for technology and a commitment to conti
 * Slack
 * PowerShell
 * Markdown
+* Microsoft Office Suite
 
 ### Skills:
 * Technical Skills:
