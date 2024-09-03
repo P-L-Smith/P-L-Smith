@@ -64,6 +64,7 @@ A dedicated professional with a passion for technology and a commitment to conti
  
 ### Tools and Technologies:
 * Salesforce
+* Salesforce Object Query Language (SOQL)
 * Zendesk
 * Excel
 * Slack
